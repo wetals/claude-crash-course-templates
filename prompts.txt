@@ -1,0 +1,56 @@
+STEP 1
+-----------------------------------------------------------------------------------------------
+
+I'm creating a next JS project and I need your help turning my drawings into real life next JS code. 
+Just to give you a little bit more background about the project. 
+I am trying to automate my workflow with the help of AI so that I can upload video clips, 
+and then configure some prompts and then trigger a bunch of Lang chain runs to go off and 
+summarize all of my YouTube videos and generate post for LinkedIn, Twitter, YouTube, and a bunch more places.
+
+I'm uploading pictures of a few key wireframes of the app.
+
+-----------------------------------------------------------------------------------------------
+
+Upload Wireframes - Maximum 5
+
+-----------------------------------------------------------------------------------------------
+Corrections & Additional Information:
+1.
+2.
+
+-----------------------------------------------------------------------------------------------
+Answers to Your Questions:
+1. 
+2.
+3. Which recommendations do you have? I want to use something simple, cheap, and easy to understand.
+
+Do you have any followup questions? Do I need to elaborate more on any of my feedback or answers?
+
+-----------------------------------------------------------------------------------------------
+
+1.
+2.
+
+You now know enough, please generate the masterplan.md file
+
+STEP 2
+-----------------------------------------------------------------------------------------------
+
+1. Create a new Claude project: "Youtube Content Automation"
+2. Add generated masterplan.md to Project Knowledge
+3. Add wireframes (content)
+4. Add Prompt from the FILE: "2_stub_out_project.txt" (remember to specify typescript)
+
+
+STEP 3
+-----------------------------------------------------------------------------------------------
+
+1. Add all the files into the "Project Knowledge"
+2. Add Prompt from the FILE: "3_fully_code_out_implementation.txt" 
+
+The first page I need help with is the root page `app/page.tsx`. Currently, this page is very bland.
+I would like you to make this page look modern and stylish. Add a hero section to greet the user,
+let them know about the app and then have a CTA which directs them to their projects. 
+For the color scheme, I want to use rose-500, dark gray and white.
+
+
